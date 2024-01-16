@@ -13,7 +13,6 @@ function App() {
       <p>Task3</p>
       <p>Task1</p>
       <p>Task2</p>
-      <p>Task3</p>
       </div>
     </div>
   </header>
